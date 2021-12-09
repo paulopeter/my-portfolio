@@ -1,5 +1,4 @@
-*{
-  background-color: ivory;
+*{background-color: cadetblue;
 }
 
 
@@ -55,5 +54,12 @@ background-color: rgb(244, 245, 245);
 
 .btn:hover, li:hover {
   background-color: rgb(212, 213, 243);
+}
+
+.section-2{
+border:solid 5px black;
+width: 500px;
+padding-top:20px;
+margin-top: 30px;
 }
 
